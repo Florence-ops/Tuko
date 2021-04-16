@@ -32,7 +32,7 @@ public class Tests {
     @Test(testName = "Tuko Automation")
     public static void load() throws InterruptedException {
         driver.manage().window().maximize();
-        driver.get("https://www.tuko.co.ke/");
+        driver.get("https://www.tuko.co.ke/408263-mikel-arteta-pin-points-decision-cost-arsenal-win-slavia-prague.html");
 
 
 
