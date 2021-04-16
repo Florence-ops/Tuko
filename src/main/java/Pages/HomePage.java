@@ -87,8 +87,8 @@ public class HomePage extends PageObjects {
         System.out.println(driver.getTitle());
 
 
-        this.username.sendKeys("njeradine@gmail.com");
-        this.password.sendKeys("puckerman");
+        this.username.sendKeys("email@gmail.com");
+        this.password.sendKeys("password");
 
 
         WebElement nts = driver.findElement(By.id("loginbutton"));
